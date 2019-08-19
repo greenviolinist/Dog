@@ -1,3 +1,7 @@
+React app using Dog API https://dog.ceo/dog-api/
+Live version: http://efficient-doggy.surge.sh/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
